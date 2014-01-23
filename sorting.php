@@ -95,7 +95,7 @@ class Sorting_Library
 		 */
 		$work = array();
 
-		for ($i = 0; $i < $c; i++)
+		for ($i = 0; $i < $c; $i++)
 		{
 			$work[] = [$stack[$i]];
 		}
